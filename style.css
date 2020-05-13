@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;900&display=swap');
+
+.container {
+  color: black;
+  
+}
+
+.banner {
+  background-image: url(https://source.unsplash.com/random);
+  background-size: auto;
+  color: whitesmoke;
+  font-family: 'Inconsolata';
+  font-weight: 900;
+  text-shadow: black;
+  text-size-adjust: 20px;
+  height: 300px;
+  margin: 0px;
+  padding-left: 400px;
+  padding-right: 400px;
+  padding-top: 200px;
+}
+
+.paragraph {
+  font-family: 'Inconsolata';
+  font-weight: 500;
+  font-size: x-large;
+  width: 700px;
+  margin: auto;
+}
